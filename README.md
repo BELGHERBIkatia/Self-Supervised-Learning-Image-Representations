@@ -1,6 +1,6 @@
 # Apprentissage de représentations d'images : Approches auto-supervisées
 
-[cite_start]Ce projet explore différentes méthodes de **Self-Supervised Learning (SSL)** pour l'apprentissage de représentations visuelles sans étiquettes explicites[cite: 3, 4, 21]. [cite_start]L'objectif est d'évaluer l'efficacité de diverses tâches prétextes en mesurant leur capacité de généralisation sur des tâches de classification supervisée[cite: 22].
+Ce projet explore différentes méthodes de **Self-Supervised Learning (SSL)** pour l'apprentissage de représentations visuelles sans étiquettes explicites[cite: 3, 4, 21]. L'objectif est d'évaluer l'efficacité de diverses tâches prétextes en mesurant leur capacité de généralisation sur des tâches de classification supervisée[cite: 22].
 
 ##  Présentation des Démonstrations
 
